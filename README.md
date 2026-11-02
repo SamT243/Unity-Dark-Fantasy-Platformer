@@ -10,7 +10,7 @@ The game is a 2D side-scrolling dark fantasy platformer including:
 7. Various UI implementations
 
 Scored 60/70 marks 
-Supported by 143-page technical report - ~19500 words
+Supported by 136-page technical report - ~20,000 words
 
 Software/ Technologies required:
 1. Unity
