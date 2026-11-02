@@ -11,3 +11,8 @@ The game is a 2D side-scrolling dark fantasy platformer including:
 
 Scored 60/70 marks 
 Supported by 143-page technical report - ~19500 words
+
+Software/ Technologies required:
+1. Unity
+2. C#
+3. Visual Studio
